@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Amirali Sharifi ASL
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning backend languages like:php
+- 📫 How to reach me:
+- gmail; workhorse1384@gmail.com
